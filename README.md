@@ -67,9 +67,8 @@ Busco uma oportunidade de **estágio em Tecnologia da Informação**, onde possa
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
-- 📧 E-mail: seuemail@email.com
-- 💻 GitHub: [Meu GitHub](https://github.com/)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/camilabeffa)
+- 📧 E-mail: camilabefa12@gmail.com
 
 ---
 
