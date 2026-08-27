@@ -17,36 +17,6 @@ Estou em busca de uma **oportunidade de estágio na área de Tecnologia**, onde 
 
 ---
 
-## 🛠️ Conhecimentos & Habilidades
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Tecnologia</h3>
-      <ul>
-        <li>Lógica de Programação</li>
-        <li>Programação</li>
-        <li>Desenvolvimento Web</li>
-        <li>Banco de Dados</li>
-        <li>Ferramentas Digitais</li>
-      </ul>
-    </td>
-
-    <td valign="top" width="50%">
-      <h3>👩‍💼 Competências</h3>
-      <ul>
-        <li>Comunicação</li>
-        <li>Organização</li>
-        <li>Trabalho em equipe</li>
-        <li>Resolução de problemas</li>
-        <li>Aprendizado contínuo</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💼 Experiência Profissional
 
 ### M2 Multimarcas
