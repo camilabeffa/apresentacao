@@ -1,44 +1,45 @@
 # apresentacao
- *# Olá, eu sou a Camila! 👋
+# Olá, eu sou a Camila! 👋
 
 ## 🚀 Sobre Mim
-Sou estudante em *Ciência da Computação, combinando competências técnicas com visão sólida em **Administração*. Minha abordagem foca em utilizar a tecnologia como ferramenta estratégica para otimizar processos administrativos e impulsionar resultados de negócios e posicionamento de mercado.
 
-- 💼 Buscando oportunidades nos setores de *Tecnologia* e *Administrativo*.
-- 📊 Interesses: Governança de TI, Gestão de Projetos, Automação de Processos e Growth Marketing baseado em dados.
-- 📫 Como me encontrar: [camilabeffa12@gmail.com] ou no [Meu LinkedIn](https://linkedin.com/in/camilabeffa).
+Sou estudante de **Ciência da Computação** e apaixonada por tecnologia e aprendizado contínuo. Atualmente trabalho na **M2 Multimarcas**, onde atuo com gestão de sites de anúncios, atendimento de clientes online e organização de documentos.
+
+Minha experiência profissional me permite desenvolver habilidades como **comunicação, organização, responsabilidade, resolução de problemas e utilização de ferramentas digitais**.
+
+Estou em busca de uma **oportunidade de estágio na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender novas tecnologias e desenvolver minha carreira profissional.
+
+- 💻 Estudante de Ciência da Computação
+- 💼 Atualmente trabalhando na M2 Multimarcas
+- 🚀 Buscando oportunidade de estágio em Tecnologia
+- 📚 Sempre buscando aprender e evoluir
+- 🌐 Interesse em programação e desenvolvimento de software
 
 ---
 
-## 🛠️ Competências & Tecnologias
+## 🛠️ Conhecimentos & Habilidades
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3>💻 Tecnologia (TI)</h3>
+    <td valign="top" width="50%">
+      <h3>💻 Tecnologia</h3>
       <ul>
-        <li>Infraestrutura & Redes</li>
-        <li>Metodologias Ágeis (Scrum/Kanban)</li>
-        <li>Banco de Dados / SQL</li>
-        <li>Governança (ITIL / COBIT)</li>
+        <li>Lógica de Programação</li>
+        <li>Programação</li>
+        <li>Desenvolvimento Web</li>
+        <li>Banco de Dados</li>
+        <li>Ferramentas Digitais</li>
       </ul>
     </td>
-    <td valign="top" width="33%">
-      <h3>👔 Administração</h3>
+
+    <td valign="top" width="50%">
+      <h3>👩‍💼 Competências</h3>
       <ul>
-        <li>Gestão de Processos (BPMN)</li>
-        <li>Análise de Indicadores (KPIs)</li>
-        <li>Sistemas ERP / CRM</li>
-        <li>Gestão de Custos e Recursos</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>📈 Marketing</h3>
-      <ul>
-        <li>Marketing Digital & SEO</li>
-        <li>Data Analytics (Google Analytics)</li>
-        <li>Automação de Marketing</li>
-        <li>Estratégia de Conteúdo</li>
+        <li>Comunicação</li>
+        <li>Organização</li>
+        <li>Trabalho em equipe</li>
+        <li>Resolução de problemas</li>
+        <li>Aprendizado contínuo</li>
       </ul>
     </td>
   </tr>
@@ -46,17 +47,48 @@ Sou estudante em *Ciência da Computação, combinando competências técnicas c
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💼 Experiência Profissional
 
-<p align="left">
-  <img src="https://vercel.app[SEU-USUARIO-GITHUB]&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="150">
-  <img src="https://vercel.app[SEU-USUARIO-GITHUB]&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150">
+### M2 Multimarcas
+
+Atuo na gestão de sites e plataformas de anúncios, realizando atualização e organização das informações dos veículos.
+
+Também realizo **atendimento de clientes online**, esclarecendo dúvidas e auxiliando no processo de atendimento.
+
+Além disso, sou responsável pela **organização de documentos**, contribuindo para as atividades administrativas da empresa.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade de **estágio em Tecnologia da Informação**, onde possa colocar em prática os conhecimentos adquiridos durante a graduação em Ciência da Computação, aprender com profissionais experientes e contribuir para o desenvolvimento de projetos e soluções.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="170">
 </p>
 
 ---
 
+## 📫 Contato
+
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
+- 📧 E-mail: seuemail@email.com
+- 💻 GitHub: [Meu GitHub](https://github.com/)
+
+---
+
 <p align="center">
-  <i>"A tecnologia move o mundo, mas a gestão direciona para o lugar certo."</i>
+  <i>"Transformando conhecimento em oportunidades e ideias em soluções."</i>
 </p>
-*
+
+Importante: troque SEU-USUARIO pelo seu nome de usuário do GitHub. Também substitua o e-mail e o LinkedIn pelos seus dados.
+
+Se você me passar seu usuário do GitHub e seu LinkedIn, posso deixar o código já 100% preenchido e com uma aparência mais profissional para chamar atenção de recrutadores.
+
+
 
