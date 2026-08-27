@@ -2,7 +2,7 @@
  *# Olá, eu sou a Camila! 👋
 
 ## 🚀 Sobre Mim
-Sou estudante em *Ciência da Computação, combinando competências técnicas com visão sólida em **Administração* e *Marketing*. Minha abordagem foca em utilizar a tecnologia como ferramenta estratégica para otimizar processos administrativos e impulsionar resultados de negócios e posicionamento de mercado.
+Sou estudante em *Ciência da Computação, combinando competências técnicas com visão sólida em **Administração*. Minha abordagem foca em utilizar a tecnologia como ferramenta estratégica para otimizar processos administrativos e impulsionar resultados de negócios e posicionamento de mercado.
 
 - 💼 Buscando oportunidades nos setores de *Tecnologia* e *Administrativo*.
 - 📊 Interesses: Governança de TI, Gestão de Projetos, Automação de Processos e Growth Marketing baseado em dados.
