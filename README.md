@@ -6,7 +6,7 @@ Sou estudante em *Ciência da Computação, combinando competências técnicas c
 
 - 💼 Buscando oportunidades nos setores de *Tecnologia* e *Administrativo*.
 - 📊 Interesses: Governança de TI, Gestão de Projetos, Automação de Processos e Growth Marketing baseado em dados.
-- 📫 Como me encontrar: [camilabeffa12@gmail.com] ou no [Meu LinkedIn](https://linkedin.com).
+- 📫 Como me encontrar: [camilabeffa12@gmail.com] ou no [Meu LinkedIn](https://linkedin.com/in/camilabeffa).
 
 ---
 
